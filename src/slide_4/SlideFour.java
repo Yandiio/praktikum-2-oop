@@ -3,7 +3,7 @@ package slide_4;
 import java.util.Scanner;
 
 /**
- * @author Yandi Fenanda
+ * @author Muh. Yandi Fenanda
  * @createdOn 14/03/23 Tuesday
  */
 public class SlideFour {

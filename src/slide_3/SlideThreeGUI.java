@@ -3,7 +3,7 @@ package slide_3;
 import javax.swing.*;
 
 /**
- * @author Yandi Fenanda
+ * @author Muh. Yandi Fenanda
  * @createdOn 14/03/23
  */
 public class SlideThreeGUI {

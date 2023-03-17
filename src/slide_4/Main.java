@@ -1,7 +1,7 @@
 package slide_4;
 
 /**
- * @author Yandi Fenanda
+ * @author Muh. Yandi Fenanda
  * @createdOn 17/03/23 Friday
  */
 public class Main {
